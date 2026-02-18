@@ -1,5 +1,5 @@
-# SketchTo3D
+# Foley à Deux
 
 Ghassan El Bounni & Joshua Ford
 
-Much sketch. So much 3D. Such wow 
+Much Foley. So much sound. Such wow 
